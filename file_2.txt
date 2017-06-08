@@ -1,3 +1,4 @@
 Stuff in File 2
 Some more lines
 Final list of a
+insert one line of text per the instructions
